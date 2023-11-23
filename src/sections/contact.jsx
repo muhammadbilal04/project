@@ -1,4 +1,5 @@
 import Btn from "../components/button";
+import Btn2 from "../components/button2";
 
 function Contact() {
 
@@ -39,7 +40,7 @@ function Contact() {
                                         placeholder="Start typing here ..."
                                     />
                                 </div>
-                                <Btn>SUBMIT</Btn>
+                                <Btn2>SUBMIT</Btn2>
 
                             </form>
 

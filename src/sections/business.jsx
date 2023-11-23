@@ -1,4 +1,5 @@
 import Btn from "../components/button";
+import Btn2 from "../components/button2";
 
 function Business() {
 
@@ -16,7 +17,7 @@ function Business() {
                         {/* <h3 className="text-[25px] text-center leading-tight font-bold text-[#222051] pb-5">
                             dsfsdfs
                         </h3> */}
-                        <Btn >VIEW SOME SOLUTION EXAMPLES</Btn>
+                        <Btn2 >VIEW SOME SOLUTION EXAMPLES</Btn2>
                     </div>
                         <h2 className=" text-[45px] md:py-5 lg:py-0 text-center leading-tight font-extrabold text-[#222051]">
                             OR
@@ -26,7 +27,7 @@ function Business() {
                             <h3 className="text-[28px] w-4/6 mx-auto text-center leading-tight font-bold text-[#222051] pb-5">
                                 We'll jump in to your business and find the gaps
                             </h3>
-                            <Btn >BOOK YOUR FREE AUTOMATION & AI AUDIT</Btn>
+                            <Btn2 >BOOK YOUR FREE AUTOMATION & AI AUDIT</Btn2>
                         </div></div>
                 </div>
             </section>
