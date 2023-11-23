@@ -1,5 +1,5 @@
-import Btn from "../components/button";
-import Btn2 from "../components/button2";
+import Button2 from "../components/button";
+
 
 function Contact() {
 
@@ -7,9 +7,9 @@ function Contact() {
         <>
 
             <section className="relative  z-10">
-                <div className=" mx-auto w-9/12 py-20">
-                    <div className="lg:flex gap-5 justify-center  drop-shadow-2xl bg-white rounded-3xl px-12 py-10 ">
-                        <img className=" mx-auto rounded-2xl p-5 mb-5 lg:w-1/2" src="/img/box-img-6.png" alt="" />
+                <div className=" mx-auto lg:w-9/12 w-11/12 lg:py-20 py-5">
+                    <div className="lg:flex gap-5 justify-center  drop-shadow-2xl bg-white rounded-3xl lg:py-10 py-5 lg:px-12 px-6">
+                        <img className=" mx-auto rounded-2xl p-5 mb-5 lg:w-1/2 w-[400px]" src="/img/box-img-6.png" alt="" />
                         <div className="lg:w-1/2">
                             <h2 className=" text-[45px] leading-tight font-extrabold text-[#222051]">
                                 Contact Us
@@ -40,7 +40,7 @@ function Contact() {
                                         placeholder="Start typing here ..."
                                     />
                                 </div>
-                                <Btn2>SUBMIT</Btn2>
+                                <Button2 size="lg">SUBMIT</Button2>
 
                             </form>
 
