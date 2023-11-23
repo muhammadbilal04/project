@@ -24,10 +24,10 @@ function Services() {
       <>
         <section className="relative bg-gray-50">
           <div className=" mx-auto w-4/5 py-20">
-            <h3 className=" text-[25px] leading-tight font-bold text-[#f64fc7]">
+            <h3 className=" text-[25px] leading-tight text-center lg:text-left font-bold text-[#f64fc7]">
               CORE SERVICES
             </h3>
-            <h2 className=" text-[45px] leading-tight font-extrabold text-[#222051]">
+            <h2 className=" text-[45px] leading-tight text-center lg:text-left  font-extrabold text-[#222051]">
               We help you...
             </h2>
             <div className="grid gap-10 grid-cols-1 lg:grid-cols-3 py-20">

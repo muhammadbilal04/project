@@ -7,7 +7,7 @@ function Business() {
             <section className="relative bg-gray-50">
                 <div className=" mx-auto w-4/5 py-20">
 
-                    <h2 className=" text-[45px] w-4/6 mx-auto text-center leading-tight font-extrabold text-[#222051]">
+                    <h2 className=" text-[45px] lg:w-4/6  mx-auto text-center leading-tight font-extrabold text-[#222051]">
                         Not sure how to utiize automation or AI in your business?
                     </h2>
                     <div className="lg:flex gap-5 justify-center items-center py-10">
