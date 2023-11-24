@@ -10,7 +10,7 @@ function Header() {
                 <img className="lg:w-[200px] w-[100px]" src="img\logo.png" alt="" />
             </div>
             <div className=" flex justify-center items-center">
-                <button className="font-bold lg:text-lg text-sm px-2 lg:px-5 border-r-2 border-black">SERVICES</button>
+                <button className="font-bold lg:text-lg text-sm px-2 lg:px-5 border-r border-black">SERVICES</button>
                 <button className="font-bold lg:text-lg text-sm px-2 lg:px-5 ">SOLUTIONS</button>
                 <div className="lg:block hidden">
                 <Button2 size="sm">FREE CONSULT</Button2>
